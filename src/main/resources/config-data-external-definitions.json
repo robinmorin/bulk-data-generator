@@ -1,0 +1,26 @@
+{
+  "external-definitions": [
+    {
+      "cnpj": "11223344556677",
+      "nome": "FORNECEDOR TESTE 1",
+      "contrato": 1234567,
+      "agencia": "9999",
+      "agencia-digito": "7",
+      "conta": "12345678",
+      "conta-digito": "0",
+      "carteira": 10,
+      "variacao": 20
+    },
+    {
+      "cnpj": "77665544332211",
+      "nome": "FORNECEDOR TESTE 2",
+      "contrato": 7654321,
+      "agencia": "8888",
+      "agencia-digito": "7",
+      "conta": "87654321",
+      "conta-digito": "0",
+      "carteira": 20,
+      "variacao": 10
+    }
+  ]
+}
